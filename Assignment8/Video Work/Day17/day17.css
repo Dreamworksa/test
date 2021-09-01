@@ -1,0 +1,70 @@
+body{
+    background-color: black;
+}
+
+h2{
+    color: salmon;
+}
+
+.box1{
+    background-color: rgb(10, 240, 60);
+    display: inline-block;
+    margin: 10px 10px;
+}
+
+.box2{
+    background-color: rgb(10, 213, 240);
+    display: inline-block;
+    margin: 20px 30px 0;
+}
+
+.box3{
+    background-color: rgb(240, 10, 163);
+    display: inline-block;
+    margin: 20px 30px 0;
+}
+
+
+.box4{
+    background-color: rgb(240, 10, 10);
+    display: inline-block;
+    margin: 20px 30px 0;
+}
+
+.box5{
+    background-color: rgb(10, 240, 60);
+    display: inline-block;
+    margin: 10px 10px;
+}
+
+.box6{
+    background-color: rgb(10, 213, 240);
+    display: inline-block;
+    margin: 20px 30px 0;
+}
+
+.box7{
+    background-color: rgb(240, 10, 163);
+    display: inline-block;
+    margin: 20px 30px 0;
+}
+
+
+.box8{
+    background-color: rgb(240, 10, 10);
+    display: inline-block;
+    margin: 20px 30px 0;
+}
+
+.box9{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(55, 26, 214);
+}
+
+.box10{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(26, 214, 151);
+
+}
